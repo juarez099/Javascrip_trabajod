@@ -1,1 +1,1 @@
-//alert("Hola Estudiante");
+alert("En esta pagina No se aceptan tarjetas de credito/debito, ni nada personal. Gracias");
